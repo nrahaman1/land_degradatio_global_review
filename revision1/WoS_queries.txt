@@ -1,0 +1,52 @@
+Web of Science Core Collection: replication of Table 1 queries (Reviewer comment i)
+================================================================================
+Where: lib.vt.edu > Databases > Web of Science (sign in with VT credentials) > Advanced Search
+TS = Topic (title, abstract, author keywords, Keywords Plus); the closest match to Scopus TITLE-ABS-KEY.
+
+Run each query SEPARATELY, then before exporting apply these filters (left panel):
+  - Document Types: Article, Proceedings Paper (Early Access is fine)
+  - Languages: English
+  - Publication Years: 1982 to 2025 only (excludes 2026)
+
+Export: Export > Tab delimited file > Record Content = "Full Record" > records 1-1000
+(If a query has more than 1000 results, export 1001-2000 etc. as a separate file.)
+Save each query's file(s) (e.g. 1-1000.txt, 1001-2000.txt) into its own folder:
+  Revision_1/WoS_Data/Q01_Drivers_Human/ ... Revision_1/WoS_Data/Q11_Feedback/  (folder number = query number below)
+
+Q01 Drivers / Human (excl.)     TS=("land degradation" AND drivers AND human AND factors NOT natural)
+Q02 Drivers / Natural (excl.)   TS=("land degradation" AND drivers AND natural AND factors NOT human)
+Q03 Drivers / Combined          TS=("land degradation" AND drivers AND natural AND factors AND human)
+Q04 Processes / Physical        TS=("land degradation" AND process AND physical)
+Q05 Processes / Chemical        TS=("land degradation" AND process AND chemical)
+Q06 Processes / Biological      TS=("land degradation" AND process AND biological)
+Q07 Processes / Mixed           TS=("land degradation" AND process AND biological AND chemical AND physical)
+Q08 Impacts / Environmental     TS=("land degradation" AND impact AND environmental NOT socioeconomic)
+Q09 Impacts / Socioeconomic     TS=("land degradation" AND impact AND socioeconomic NOT environmental)
+Q10 Impacts / Combined          TS=("land degradation" AND impact AND socioeconomic AND environmental)
+Q11 Feedback                    TS=("land degradation" AND feedback AND loop)
+
+Also note for each query the hit count shown BEFORE and AFTER the filters (for the PRISMA diagram):
+Q01 before 82 after 65      Q07 before 47 after 28
+Q02 before 57 after 45      Q08 before 1513 after 1170
+Q03 before 47 after 32     Q09 before 125 after 107
+Q04 before 306 after 231      Q10 before 155 after 124
+Q05 before 223 after 148      Q11 before 29 after 21
+Q06 before 203 after 139     Date searched: 10/09/2026
+
+================================================================================
+FINAL EXPORT (supersedes counts above). Date searched: October 9, 2026
+Filters applied inside the query: <BASE> AND PY=(1982-2025) AND DT=(Article OR "Proceedings Paper") AND LA=(English)
+Query  before  after  file(s) in WoS_Data/
+Q01      82     66    Q01_Drivers_Human/1-66.txt
+Q02      57     45    Q02_Drivers_Natural/1-45.txt
+Q03      47     33    Q03_Drivers_Combined/1-33.txt
+Q04     306    254    Q04_Processes_Physical/1-254.txt
+Q05     223    166    Q05_Processes_Chemical/1-166.txt
+Q06     203    148    Q06_Processes_Biological/1-148.txt
+Q07      47     32    Q07_Processes_Mixed/1-32.txt
+Q08    1513   1170    Q08_Impacts_Environmental/1-1000.txt + 1001-1170.txt
+Q09     125    107    Q09_Impacts_Socioeconomic/1-107.txt
+Q10     155    124    Q10_Impacts_Combined/1-124.txt
+Q11      29     21    Q11_Feedback/1-21.txt
+Notes: 29 records show PY=2026 but were published online (early access) in 2024-2025, which is why WoS's PY filter kept them.
+       58 "Article; Book Chapter" and 3 retracted records passed DT=Article; handled in analysis code.

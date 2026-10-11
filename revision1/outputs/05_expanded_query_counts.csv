@@ -1,0 +1,14 @@
+query set,dimension,hits,share of union %,share of all LD records %,union,all LD records
+original (Table 1),Driver,115,5.7,1.2,2004.0,9974.0
+original (Table 1),Process,417,20.8,4.2,2004.0,9974.0
+original (Table 1),Impact,1579,78.8,15.8,2004.0,9974.0
+original (Table 1),Feedback Loop,15,0.7,0.2,2004.0,9974.0
+expanded (synonyms),Driver,1000,20.2,10.0,4946.0,9974.0
+expanded (synonyms),Process,977,19.8,9.8,4946.0,9974.0
+expanded (synonyms),Impact,3931,79.5,39.4,4946.0,9974.0
+expanded (synonyms),Feedback Loop,166,3.4,1.7,4946.0,9974.0
+original AND expanded,Driver,115,,,,
+original AND expanded,Process,417,,,,
+original AND expanded,Impact,1579,,,,
+original AND expanded,Feedback Loop,15,,,,
+expanded + tipping points/regime shifts/thresholds,Feedback Loop,387,7.7,3.9,5052.0,9974.0

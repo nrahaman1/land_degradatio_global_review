@@ -1,0 +1,4 @@
+,Driver,Process,Impact,Feedback Loop,n_unique
+"Scopus corpus (2,472 query hits -> unique titles)",5.5,21.5,78.3,0.7,2149.0
+"Scopus corpus, single-assignment (2,151; as in manuscript)",5.3,17.2,76.8,0.7,2151.0
+Web of Science (same 11 queries),7.9,21.8,75.1,1.1,1830.0

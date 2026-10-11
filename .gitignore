@@ -1,0 +1,4 @@
+revision1/cache/
+revision1/WoS_Data/
+revision1/outputs/01_wos_only_records.csv
+__pycache__/

@@ -1,0 +1,11 @@
+,all years,published <= 2024
+scopus_corpus_records,2151.0,2121.0
+wos_unique_records,1830.0,1594.0
+scopus_corpus_found_in_wos,1100.0,1077.0
+scopus_corpus_found_in_wos_pct,51.1,50.8
+wos_records_found_in_scopus_corpus_pct,60.1,67.0
+wos_only_records,730.0,526.0
+wos_only_not_indexed_in_scopus,116.0,114.0
+wos_only_indexed_but_not_matching_scopus_queries,416.0,366.0
+wos_only_matching_scopus_queries_today,198.0,46.0
+jaccard_overlap_pct,38.2,40.7

@@ -1,0 +1,5 @@
+,original,expanded
+Driver,drivers AND factors AND (human OR natural),"(driver* OR ""driving force*"" OR ""driving factor*"" OR determinant* OR ""underlying cause*"" OR ""proximate cause*"" OR ""root cause*"" OR ""causal factor*"")"
+Process,process AND (physical OR chemical OR biological),(process* OR mechanism* OR pathway*) AND (physical OR chemical OR biological OR biophysical OR biogeochemical OR hydrolog* OR geomorpholog* OR pedolog*)
+Impact,impact AND (environmental OR socioeconomic),"(impact* OR effect* OR consequence* OR outcome*) AND (environmental OR ecological OR socioeconomic OR ""socio-economic"" OR economic OR social OR livelihood* OR ""food security"" OR ""ecosystem service*"")"
+Feedback Loop,feedback AND loop,"(feedback* OR ""self-reinforc*"" OR ""reinforcing loop*"" OR ""vicious cycle*"" OR ""vicious circle*"" OR ""downward spiral*"" OR ""poverty trap*"")"
