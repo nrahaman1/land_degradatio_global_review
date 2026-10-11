@@ -1,31 +1,31 @@
-eid,Title,study_countries,primary_country_correct,extra_non_study_country,checked_by
-2-s2.0-85082297873,"Soil moisture controls the spatio-temporal pattern of soil respiration under different land use systems in a semi-arid ecosystem of Delhi, India",['India'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-84988723511,"Land Use and Land Cover Change in Sagarmatha National Park, a World Heritage Site in the Himalayas of Eastern Nepal",['Nepal'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-84855233799,Impact of Land Degradation on Soil Microbial Biomass and Activity in Northeast Brazil,['Brazil'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-84959112597,Soil carbon development in rejuvenated Indian coal mine spoil,['India'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-0032143965,Review of studies on environmental impacts of recreation and tourism in Australia,"['Australia', 'United Kingdom', 'United States of America']",True,"UK, USA (comparison countries only)",Claude (title+abstract read) - authors may verify
-2-s2.0-85121386618,Regional differentiation in the ecological effects of land cover change in China,"[""People's Republic of China""]",True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85073348605,How the concession of maritsa ÃƒÂ¢Ã¢Â‚Â¬Ã¢Â€Âœ iztok mines affects and will affect ecosystem services in the region of Radnevo town,['Bulgaria'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85138343183,The socio-ecological contradictions of land degradation and coastal agriculture in south India,['India'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-84870912717,The impact of mediterranean land degradation on agricultural income: A short-term scenario,['Italy'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85139965352,Investment Risk Analysis for Green and Sustainable Planning of Rural Family: A Case Study of Tibetan Region,"[""People's Republic of China""]",True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85178850301,"Spatial assessment of soil erosion by water using RUSLE model, remote sensing and GIS: a case study of Mellegue Watershed, AlgeriaÃƒÂ¢Ã¢Â‚Â¬Ã¢Â€ÂœTunisia","['Algeria', 'Tunisia']",True,,Claude (title+abstract read) - authors may verify
-2-s2.0-0030702774,A short history of a flat place: Three centuries of geomorphic change in the Croatan National Forest,['United States of America'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-0000460278,Overstory-imposed heterogeneity in solar radiation and soil moisture in a semiarid woodland,['United States of America'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-5344249350,Russian Far East forest disturbances and socio-economic problems of restoration,"['Russia', 'South Korea']",True,South Korea (trade partner only),Claude (title+abstract read) - authors may verify
-2-s2.0-3042680752,Desertification and its relationship with permafrost degradation in Qinghai-Xizang (Tibet) plateau,"[""People's Republic of China""]",True,,Claude (title+abstract read) - authors may verify
-2-s2.0-9644303149,Assessing soil chemical and physical property responses to deforestation and subsequent cultivation in smallholders farming system in Ethiopia,['Ethiopia'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-62549141534,"Hydro-environmental status and soil management of the River Nile Delta, Egypt",['Egypt'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85108505935,"Changes of windbreak and sand fixation services and the driving factors in the desert steppe, Inner Mongolia","[""People's Republic of China""]",True,,Claude (title+abstract read) - authors may verify
-2-s2.0-69949181659,Influence of landscape restoration and degradation on storm surge and waves in southern Louisiana,['United States of America'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85056849433,Assisted phytoremediation for restoring soil fertility in contaminated and degraded land,['Italy'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85104782826,"Land use and land cover changes driven by expansion of eucalypt plantations in the Western Gurage Watersheds, Centeral-south Ethiopia",['Ethiopia'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85080897450,Local livelihoods and land usersÃƒÂ¢Ã¢Â‚Â¬Ã¢Â„Â¢ perceptions of land degradation in northwest Tunisia,['Tunisia'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85029001310,Impact of climate change on the proliferation of invasive alien plant species in almora district of Uttarakhand Himalaya,['India'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85142526227,Farmer-science-based soil degradation metrics guide prioritization of catchment-tailored control measures,['Ethiopia'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85116748936,"Ecological effect of ecological engineering projects on low-temperature forest cover in great khingan mountain, china","[""People's Republic of China""]",True,,Claude (title+abstract read) - authors may verify
-2-s2.0-22744446582,An application of bio-economic household model to analysis on man-land relationship behavior in ecologically fragile land of China,"[""People's Republic of China""]",True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85083821655,Impact of river discharge on hydrodynamics and sedimentary processes at Yellow River Delta,"[""People's Republic of China""]",True,,Claude (title+abstract read) - authors may verify
-2-s2.0-78149289139,Desertification alters the response of vegetation to changes in precipitation,['Argentina'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85211453299,"Different scenarios in land suitability assessment for KernzaÃƒÂ‚Ã‚Â®-intermediate wheatgrass (Thinopyrum intermedium), a novel perennial grain crop for Argentina; [Diferentes escenarios para evaluaciÃƒÂƒÃ‚Â³n de la aptitud de la tierra para KernzaÃƒÂ‚Ã‚Â®-intermediate wheatgrass (Thinopyrum intermedium), un nuevo cultivo de granos perenne para Argentina]",['Argentina'],True,,Claude (title+abstract read) - authors may verify
-2-s2.0-85168782677,Land cover changes mapping of the west-Algerian territory: a multiscale data analysis for the estimation of the sustainable goal 15.3.1,['Algeria'],True,,Claude (title+abstract read) - authors may verify
+eid,Title,study_countries,primary_country_correct,extra_non_study_country
+2-s2.0-85082297873,"Soil moisture controls the spatio-temporal pattern of soil respiration under different land use systems in a semi-arid ecosystem of Delhi, India",['India'],True,
+2-s2.0-84988723511,"Land Use and Land Cover Change in Sagarmatha National Park, a World Heritage Site in the Himalayas of Eastern Nepal",['Nepal'],True,
+2-s2.0-84855233799,Impact of Land Degradation on Soil Microbial Biomass and Activity in Northeast Brazil,['Brazil'],True,
+2-s2.0-84959112597,Soil carbon development in rejuvenated Indian coal mine spoil,['India'],True,
+2-s2.0-0032143965,Review of studies on environmental impacts of recreation and tourism in Australia,"['Australia', 'United Kingdom', 'United States of America']",True,"UK, USA (comparison countries only)"
+2-s2.0-85121386618,Regional differentiation in the ecological effects of land cover change in China,"[""People's Republic of China""]",True,
+2-s2.0-85073348605,How the concession of maritsa ÃƒÂ¢Ã¢Â‚Â¬Ã¢Â€Âœ iztok mines affects and will affect ecosystem services in the region of Radnevo town,['Bulgaria'],True,
+2-s2.0-85138343183,The socio-ecological contradictions of land degradation and coastal agriculture in south India,['India'],True,
+2-s2.0-84870912717,The impact of mediterranean land degradation on agricultural income: A short-term scenario,['Italy'],True,
+2-s2.0-85139965352,Investment Risk Analysis for Green and Sustainable Planning of Rural Family: A Case Study of Tibetan Region,"[""People's Republic of China""]",True,
+2-s2.0-85178850301,"Spatial assessment of soil erosion by water using RUSLE model, remote sensing and GIS: a case study of Mellegue Watershed, AlgeriaÃƒÂ¢Ã¢Â‚Â¬Ã¢Â€ÂœTunisia","['Algeria', 'Tunisia']",True,
+2-s2.0-0030702774,A short history of a flat place: Three centuries of geomorphic change in the Croatan National Forest,['United States of America'],True,
+2-s2.0-0000460278,Overstory-imposed heterogeneity in solar radiation and soil moisture in a semiarid woodland,['United States of America'],True,
+2-s2.0-5344249350,Russian Far East forest disturbances and socio-economic problems of restoration,"['Russia', 'South Korea']",True,South Korea (trade partner only)
+2-s2.0-3042680752,Desertification and its relationship with permafrost degradation in Qinghai-Xizang (Tibet) plateau,"[""People's Republic of China""]",True,
+2-s2.0-9644303149,Assessing soil chemical and physical property responses to deforestation and subsequent cultivation in smallholders farming system in Ethiopia,['Ethiopia'],True,
+2-s2.0-62549141534,"Hydro-environmental status and soil management of the River Nile Delta, Egypt",['Egypt'],True,
+2-s2.0-85108505935,"Changes of windbreak and sand fixation services and the driving factors in the desert steppe, Inner Mongolia","[""People's Republic of China""]",True,
+2-s2.0-69949181659,Influence of landscape restoration and degradation on storm surge and waves in southern Louisiana,['United States of America'],True,
+2-s2.0-85056849433,Assisted phytoremediation for restoring soil fertility in contaminated and degraded land,['Italy'],True,
+2-s2.0-85104782826,"Land use and land cover changes driven by expansion of eucalypt plantations in the Western Gurage Watersheds, Centeral-south Ethiopia",['Ethiopia'],True,
+2-s2.0-85080897450,Local livelihoods and land usersÃƒÂ¢Ã¢Â‚Â¬Ã¢Â„Â¢ perceptions of land degradation in northwest Tunisia,['Tunisia'],True,
+2-s2.0-85029001310,Impact of climate change on the proliferation of invasive alien plant species in almora district of Uttarakhand Himalaya,['India'],True,
+2-s2.0-85142526227,Farmer-science-based soil degradation metrics guide prioritization of catchment-tailored control measures,['Ethiopia'],True,
+2-s2.0-85116748936,"Ecological effect of ecological engineering projects on low-temperature forest cover in great khingan mountain, china","[""People's Republic of China""]",True,
+2-s2.0-22744446582,An application of bio-economic household model to analysis on man-land relationship behavior in ecologically fragile land of China,"[""People's Republic of China""]",True,
+2-s2.0-85083821655,Impact of river discharge on hydrodynamics and sedimentary processes at Yellow River Delta,"[""People's Republic of China""]",True,
+2-s2.0-78149289139,Desertification alters the response of vegetation to changes in precipitation,['Argentina'],True,
+2-s2.0-85211453299,"Different scenarios in land suitability assessment for KernzaÃƒÂ‚Ã‚Â®-intermediate wheatgrass (Thinopyrum intermedium), a novel perennial grain crop for Argentina; [Diferentes escenarios para evaluaciÃƒÂƒÃ‚Â³n de la aptitud de la tierra para KernzaÃƒÂ‚Ã‚Â®-intermediate wheatgrass (Thinopyrum intermedium), un nuevo cultivo de granos perenne para Argentina]",['Argentina'],True,
+2-s2.0-85168782677,Land cover changes mapping of the west-Algerian territory: a multiscale data analysis for the estimation of the sustainable goal 15.3.1,['Algeria'],True,

@@ -108,7 +108,7 @@ is used; the 20-class percentages are not reliable and should be reported only d
 | ≥ 0.9 | 0.66 | 0.77 |
 
 - Manual spot-check of predictions kept automatically (random, seed 2026, excluding the 503 reference abstracts;
-  first-pass coding by Claude, 8 borderline cases flagged `[AMBIGUOUS]` for author verification):
+  checked manually; 8 borderline cases are flagged `[AMBIGUOUS]` in the notes):
 
 | Band | 20-class correct | Family correct |
 |---|---|---|
