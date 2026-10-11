@@ -7,13 +7,18 @@ import pandas as pd
 import requests
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.path.join(HERE, "outputs")
 CACHE = os.path.join(HERE, "cache")
-# In the GitHub repository these scripts live in revision1/, next to data/ and scripts/;
-# in the authors' working folder they live in Revision_1/Analysis.
+# In the GitHub repository these scripts live in scripts/ and write to data/;
+# in the authors' working folder they live in Revision_1/Analysis and write to outputs/.
 IN_REPO = os.path.isdir(os.path.join(HERE, "..", "data"))
-REPO = os.path.join(HERE, "..") if IN_REPO else os.path.join(HERE, "..", "..", "..", "Submission_to_Anthropocene", "GitHub_Repo")
-WOS_DIR = os.path.join(HERE, "WoS_Data") if IN_REPO else os.path.join(HERE, "..", "WoS_Data")  # user-exported WoS files
+if IN_REPO:
+    REPO = os.path.join(HERE, "..")
+    OUT = os.path.join(REPO, "data")
+    WOS_DIR = os.path.join(REPO, "data", "WoS_Data")  # user-exported Web of Science files (not redistributed)
+else:
+    REPO = os.path.join(HERE, "..", "..", "..", "Submission_to_Anthropocene", "GitHub_Repo")
+    OUT = os.path.join(HERE, "outputs")
+    WOS_DIR = os.path.join(HERE, "..", "WoS_Data")
 XLSX = os.path.join(REPO, "data", "Consolidated_Method_Prediction_Excel_Updated.xlsx")
 os.makedirs(OUT, exist_ok=True); os.makedirs(CACHE, exist_ok=True)
 
